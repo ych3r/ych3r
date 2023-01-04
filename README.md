@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!---
---->
 - 👨🏻‍💻 I'm currently working as an **InfoSec Engineer**
+--->
+- 🔭 I’m currently working on **CEH Cert** & **leetcode**
+- 🌱 I’m currently learning **Forensics** & **Web Development**
 <!---
-- 🔭 I’m currently working on **network programming** & **system programming**
-- 🌱 I’m currently learning **network security** & **operating systems**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

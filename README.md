@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!---
 - 👨🏻‍💻 I'm currently working as an **InfoSec Engineer**
+- 🔭 I’m currently working on ...
 --->
-- 🔭 I’m currently working on **CEH Cert** & **leetcode**
-- 🌱 I’m currently learning **Forensics** & **Web Development**
+- 🌱 I’m currently learning **eJPTv2** & **Functional Programming**
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

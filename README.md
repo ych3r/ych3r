@@ -1,5 +1,5 @@
 ### Hello friend 👋
-- 👨🏻‍💻 I'm currently working as a **Security Operation Engineer**
+- 👨🏻‍💻 I'm currently working as a **Security Operations Engineer**
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning **Golang** and **Cloud**
 <!---

@@ -1,7 +1,7 @@
 ### Hello friend 👋
-- 👨🏻‍💻 I'm currently working as a **Security Operations Engineer**
-- 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning **Golang** and **Cloud**
+- 👨🏻‍💻 I'm currently working as a **Software Developer**
+- 🔭 I’m currently working on **Company Projects**
+- 🌱 I’m currently learning **TDD** and **Functional Programming**
 <!---
 - 👯 I’m looking to collaborate on **exciting security projects**
 - 🤔 I’m looking for help with **Cloud Security IAM**

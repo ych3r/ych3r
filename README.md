@@ -8,7 +8,8 @@
 - 💬 Ask me about **PC vs. Mac**
 - 📫 How to reach me: **LinkedIn**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: 
 --->
+- ⚡ Fun fact: 
+
 
 ![Metrics](/github-metrics.svg)
